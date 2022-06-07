@@ -10,12 +10,12 @@ public class Gabungan {
         setget sg = new setget();
         do
         {
-            System.out.println("Silahkan pilih salah satu fungsi di bawah ini ");
+            System.out.println("Wilbert Wisely_Limas  ");
             System.out.println("1. Hitung volume kubus ");
             System.out.println("2. Hitung volume tabung ");
             System.out.println("3. Hitung volume balok ");
             System.out.println("4. Hitung volume prisma segitiga ");
-            System.out.println("5. Hitung volume limas segitiga ");
+            System.out.println("5. Hitung volume limas  ");
             System.out.println("6. Keluar ");
             System.out.println("Masukkan pilihan anda : ");
             pil = temp.nextInt();
